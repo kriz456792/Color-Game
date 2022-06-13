@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyItem.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>colorBackground.jpg</file>
+    </qresource>
+</RCC>
